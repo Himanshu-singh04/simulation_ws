@@ -1,0 +1,8 @@
+prefix=/home/himanshu04/catkin_ws/src/catkin_ws_sra/devel
+
+Name: simulation_dh
+Description: Description of simulation_dh
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

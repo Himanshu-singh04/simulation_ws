@@ -1,0 +1,2 @@
+arm_teleop:simulation_gazebo/src/simulation_gazebo:simulations_rviz
+-DCATKIN_DEVEL_PREFIX=/home/himanshu04/Desktop/simulation_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/himanshu04/Desktop/simulation_workspace/install -G Unix Makefiles
