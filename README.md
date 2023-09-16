@@ -2,7 +2,7 @@
 
 This repository contains code and instructions to simulate a robot in the Rviz and Gazebo simulation environments. The simulation includes a robot model, world environment, and a basic control interface.
 
-![Robot Simulation](simulation_screenshot.png)
+![arm_sim](https://github.com/Himanshu-singh04/simulation_ws/assets/105373622/61e6d933-564f-48f9-a6b5-e43a66c14075)
 
 ## Prerequisites
 
@@ -47,6 +47,8 @@ Before you can run the simulation, make sure you have the following prerequisite
 
 ## Simulation Customization
 You can customize the simulation by modifying the robot model, world environment, or control scripts. Explore the code in the robot_simulation package to understand how everything works.
+
+![arm_sim_rviz](https://github.com/Himanshu-singh04/simulation_ws/assets/105373622/26101021-f939-445c-9e9b-fe40ddfd0eb6)
 
 ## Troubleshooting
 If you encounter any issues or have questions, please feel free to open an issue in this repository or reach out to us at himanshimu998@gmail.com.
