@@ -49,6 +49,6 @@ Before you can run the simulation, make sure you have the following prerequisite
 You can customize the simulation by modifying the robot model, world environment, or control scripts. Explore the code in the robot_simulation package to understand how everything works.
 
 ## Troubleshooting
-If you encounter any issues or have questions, please feel free to open an issue in this repository or reach out to us at your.email@example.com.
+If you encounter any issues or have questions, please feel free to open an issue in this repository or reach out to us at himanshimu998@gmail.com.
 
 
